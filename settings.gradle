@@ -1,0 +1,3 @@
+include ':vendor'
+include ':app'
+rootProject.name = "ucast_test"
